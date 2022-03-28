@@ -1,0 +1,18 @@
+
+
+
+.titulo{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    user-select: none;
+}
+  
+table{
+    background-color: #f2f2f2;
+    user-select: none;
+    cursor: pointer;
+}
+
+.Home button{
+    margin-bottom: 20px;
+}

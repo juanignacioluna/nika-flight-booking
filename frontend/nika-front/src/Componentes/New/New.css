@@ -1,0 +1,24 @@
+
+
+.card,#datetimepicker-1{
+    color:black;
+}
+
+.card-header{
+    display:flex;
+}
+
+.New{
+    user-select:none;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.ciudades input{
+    border-radius: 20px;
+    padding:6px;
+    padding-left: 15px;
+    color: black;
+}
