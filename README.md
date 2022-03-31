@@ -2,10 +2,10 @@
 
 Requisitos:
 
-. Tener instalado npm y node
-. Tener instalado python3
-. Tener instalado mysql, con el servidor en funcionamiento.
-. Tener instalado git
+ - Tener instalado npm y node
+ - Tener instalado python3
+ - Tener instalado mysql, con el servidor en funcionamiento.
+ - Tener instalado git
 
 Cree un directorio y abra la terminal. Clone el repositorio con `git clone https://github.com/juanignacioluna/nika-flight-booking.git`
 
